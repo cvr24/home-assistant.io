@@ -15,6 +15,9 @@ This platform allows you to detect presence by looking at connected devices to a
 Supported devices (tested):
 
 - MI424WR (Verizon FIOS)
+ 
+Unsupported devices (tested):
+- T3200M (Telus) has telnet disabled in the Telus firmware, so although this device will be detected, it cannot be configured.
 
 <div class='note warning'>
 This device tracker needs telnet to be enabled on the router.
